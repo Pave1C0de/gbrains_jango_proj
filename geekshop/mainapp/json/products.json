@@ -1,0 +1,74 @@
+[
+  {
+    "category": "дом",
+    "name": "Дом2",
+    "image": "product/product-1.jpeg",
+    "short_desc": "Краткое описание Дом2",
+    "description": "Длинное красивое описание для товара Дом2",
+    "price": 1000.0,
+    "quantity": 20
+  },
+    {
+    "category": "дом",
+    "name": "Дом1",
+    "image": "product/product-1.jpeg",
+    "short_desc": "Краткое описание Дом1",
+    "description": "Длинное красивое описание для товара Дом1",
+    "price": 1500.0,
+    "quantity": 10
+  },
+    {
+    "category": "классика",
+    "name": "Классика1",
+    "image": "product/product-1.jpeg",
+    "short_desc": "Краткое описание Классика1",
+    "description": "Длинное красивое описание для товара Классика1",
+    "price": 2500.0,
+    "quantity": 12
+  },
+    {
+    "category": "классика",
+    "name": "Классика2",
+    "image": "product/product-1.jpeg",
+    "short_desc": "Краткое описание Классика2",
+    "description": "Длинное красивое описание для товара Классика2",
+    "price": 1522.0,
+    "quantity": 12
+  },
+    {
+    "category": "модерн",
+    "name": "Модерн1",
+    "image": "product/product-1.jpeg",
+    "short_desc": "Краткое описание Модерн1",
+    "description": "Длинное красивое описание для товара Модерн1",
+    "price": 1100.0,
+    "quantity": 11
+  },
+    {
+    "category": "модерн",
+    "name": "Модерн2",
+    "image": "product/product-1.jpeg",
+    "short_desc": "Краткое описание Модерн2",
+    "description": "Длинное красивое описание для товара Модерн2",
+    "price": 1501.0,
+    "quantity": 110
+  },
+    {
+    "category": "офис",
+    "name": "Офис1",
+    "image": "product/product-1.jpeg",
+    "short_desc": "Краткое описание Офис1",
+    "description": "Длинное красивое описание для товара Офис1",
+    "price": 500.0,
+    "quantity": 14
+  },
+    {
+    "category": "офис",
+    "name": "Офис2",
+    "image": "product/product-1.jpeg",
+    "short_desc": "Краткое описание Офис2",
+    "description": "Длинное красивое описание для товара Офис2",
+    "price": 4500.0,
+    "quantity": 14
+  }
+]

@@ -1,5 +1,18 @@
 <ul class="links-menu">
-    {% for linck_menu in lincks_menu %}
-        <li><a href="#">{{ linck_menu.title }}</a></li>
+
+        <li>
+            <a href="{% url 'products:product_list' 0 %}"
+            {% if request.resolver_match.kwargs.pk == 0 %}class="active"{% endif %}>
+                все
+            </a>
+        </li>
+    {% for link_menu in links_menu %}
+        <li>
+            <a href="{% url 'products:product_list' link_menu.pk %}"
+               {% if request.resolver_match.kwargs.pk == link_menu.pk %}class="active"{% endif %}>
+
+                {{link_menu.name}}
+            </a>
+        </li>
     {% endfor %}
 </ul>
